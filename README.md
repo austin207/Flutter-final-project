@@ -93,8 +93,4 @@ Built as part of a Flutter development learning project, implementing:
 - Form handling and validation
 - Material Design components
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 **Created with Flutter 💙**
