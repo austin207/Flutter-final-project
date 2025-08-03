@@ -40,10 +40,11 @@ flutter run
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^6.0.5
-  localstorage: ^5.0.0
-  intl: ^0.19.0
-  collection: ^1.18.0
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  localstorage: ^6.0.0
+  intl: ^0.20.2
+  collection: ^1.19.1
   uuid: ^4.4.0
 ```
 
@@ -97,6 +98,3 @@ Built as part of a Flutter development learning project, implementing:
 This project is open source and available under the [MIT License](LICENSE).
 
 **Created with Flutter 💙**
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/64077789/6490d9b0-2e02-418f-b889-7cd3c1076c2a/image.jpg
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/64077789/5cf791d1-1c49-48a3-8a15-bfca832992b2/image.jpg
